@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\bin\Debug\net8.0\CsharpDiretoAoPonto.exe
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\bin\Debug\net8.0\CsharpDiretoAoPonto.deps.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\bin\Debug\net8.0\CsharpDiretoAoPonto.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\bin\Debug\net8.0\CsharpDiretoAoPonto.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\bin\Debug\net8.0\CsharpDiretoAoPonto.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\refint\CsharpDiretoAoPonto.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\CsharpDiretoAoPonto.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\CsharpDiretoAoPonto\obj\Debug\net8.0\ref\CsharpDiretoAoPonto.dll

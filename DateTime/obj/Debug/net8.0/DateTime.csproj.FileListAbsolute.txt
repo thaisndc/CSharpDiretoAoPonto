@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\bin\Debug\net8.0\DateTime.exe
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\bin\Debug\net8.0\DateTime.deps.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\bin\Debug\net8.0\DateTime.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\bin\Debug\net8.0\DateTime.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\DateTime\obj\Debug\net8.0\ref\DateTime.dll

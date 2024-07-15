@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\bin\Debug\net8.0\ProgramacaoOO.exe
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\bin\Debug\net8.0\ProgramacaoOO.deps.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\bin\Debug\net8.0\ProgramacaoOO.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\bin\Debug\net8.0\ProgramacaoOO.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\bin\Debug\net8.0\ProgramacaoOO.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\refint\ProgramacaoOO.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ProgramacaoOO.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\ProgramacaoOO\obj\Debug\net8.0\ref\ProgramacaoOO.dll

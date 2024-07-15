@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.exe
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.deps.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\refint\EstruturasRepeticao.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\CsharpDiretoAoPonto\EstruturasRepeticao\obj\Debug\net8.0\ref\EstruturasRepeticao.dll
